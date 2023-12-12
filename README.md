@@ -1,4 +1,4 @@
-## Test:
+# Test
 1. There are 3 categories of goods: food, clothing, electronics.
 2. For each category there is a page with grid and pagination.
 3. It must be possible to sort by at least one column (for example, product name. You can use stubs for data).
@@ -8,7 +8,7 @@
 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
