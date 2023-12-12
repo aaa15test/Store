@@ -1,0 +1,23 @@
+ul {
+  padding: 20px;
+}
+
+li {
+  list-style-type: none;
+}
+
+p, h4 {
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+.layout {
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 20px;
+  color: #353535;
+}
+

@@ -1,0 +1,79 @@
+.navWrapper {
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: 1fr 50px;
+  align-items: center;
+}
+
+.pages {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid: 10px;
+}
+
+.page {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: #353535;
+}
+
+.storeTitle {
+  font-size: 40px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #353535;
+}
+
+.sidebar {
+  position: fixed;
+  width: 700px;
+  top: 0;
+  right: -700px;
+  height: 100%;
+  background-color: white;
+  transition: all .5s ease;
+  box-shadow: 5px 5px 30px darkgray;
+}
+
+#check{
+  display: none;
+}
+
+.cartButton {
+  position: absolute;
+  right: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: -20px 30px 0;
+  font-size: 28px;
+  background-color: #fff;
+  box-shadow: 4px 4px 10px gray;
+  font-style: normal;
+  height: 45px;
+  width: 45px;
+  text-align: center;
+  line-height: 45px;
+  transition: all .5s ease;
+}
+
+label #cancel{
+  opacity: 0;
+  visibility: hidden;
+}
+
+#check:checked ~ .sidebar{
+  right: 0;
+}
+
+#check:checked ~ label #btn{
+  margin-right: 725px;
+  opacity: 0;
+  visibility: hidden;
+}
+
+#check:checked ~ label #cancel{
+  margin-right: 725px;
+  opacity: 1;
+  visibility: visible;
+}

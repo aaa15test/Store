@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/ad/73/ad73939cf931bc2841391972be05e23e.jpg",
+    "name": "Блузка",
+    "price": 2000
+  },
+  {
+    "id": 2,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/48/27/4827659d0370246c93d8240d82551109.jpg",
+    "name": "Бомбер",
+    "price": 5000
+  },
+  {
+    "id": 3,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/6e/e6/6ee6903a1714aa736661b5ad11379ba5.jpg",
+    "name": "Пальто",
+    "price": 9500
+  },
+  {
+    "id": 4,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/35/cc/35cc08d207e31738d0250686bdc43b22.jpg",
+    "name": "Пальто",
+    "price": 1800
+  },
+  {
+    "id": 5,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/8f/76/8f767f52d5ebad891682e516f9cd758e.jpg",
+    "name": "Платье",
+    "price": 6000
+  },
+  {
+    "id": 6,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/fd/b7/fdb7bcc0b3196ea624b76614df6fb110.jpg",
+    "name": "Платье",
+    "price": 9000
+  },
+  {
+    "id": 7,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/5c/f8/5cf8f08e708e3f030ee34934c83981de.jpg",
+    "name": "Жакет",
+    "price": 1600
+  },
+  {
+    "id": 8,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/e1/00/e100e800206639e8c83bf4d95c32fe3a.jpg",
+    "name": "Жакет",
+    "price": 1500
+  },
+  {
+    "id": 9,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/57/d2/57d24b45e27b761053743da33424d69a.jpg",
+    "name": "Юбка",
+    "price": 6500
+  },
+  {
+    "id": 10,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/c2/77/c277490b49f08054f59d645e0ca211fe.jpg",
+    "name": "Юбка",
+    "price": 5000
+  },
+  {
+    "id": 11,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/9d/9e/9d9ebfb305aea0525d120c32011acddf.jpg",
+    "name": "Футболка",
+    "price": 3000
+  },
+  {
+    "id": 12,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/ed/62/ed62c0acd6d8e26b946dcdaa738c78d0.jpg",
+    "name": "Брюки",
+    "price": 9500
+  },
+  {
+    "id": 13,
+    "image": "https://s3.eu-west-1.amazonaws.com/vikisews.public.media/media/cache/5e/9e/5e9e09037cb183df3f708f9b340e6b60.jpg",
+    "name": "Брюки",
+    "price": 8000
+  }
+]

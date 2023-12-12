@@ -1,0 +1,86 @@
+[
+  {
+    "id": 25,
+    "image": "https://media.vprok.ru/products/x700/sx/24/gkptzk57em3hbntnwsfmfchpw76a24sx.jpeg",
+    "name": "Яблоки",
+    "price": 80
+  },
+  {
+    "id": 26,
+    "image": "https://ist.say7.info/img0009/93/993_013292e_5426_1024.jpg",
+    "name": "Хлеб",
+    "price": 30
+  },
+  {
+    "id": 27,
+    "image": "https://www.rosshokolad.ru/img/700x450/f41e4b658fd74e348fa39b902a44344a.jpg",
+    "name": "Гречка",
+    "price": 90
+  },
+  {
+    "id": 28,
+    "image": "https://barista-spb.ru/components/com_jshopping/files/img_products/5519_1.jpg",
+    "name": "Кофе",
+    "price": 180
+  },
+  {
+    "id": 29,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2n7OuhIJh1Kwz6GwCKr8mBd_jpTO1zyPTRfAyDoUqtNgNIFUbHbwpyYeCuU6pdlxZVA&usqp=CAU",
+    "name": "Джем",
+    "price": 120
+  },
+  {
+    "id": 30,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65mj3rK8FO87yE5bOLflZGjZcurWt1a83nQ&usqp=CAU",
+    "name": "Кефир",
+    "price": 90
+  },
+  {
+    "id": 31,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0Y9cpPwjCdnTWN94VydisEaRkmr5QvgSTO_UXpDCuTG7wifI3rS0GaDPXqZZzi0F_eA&usqp=CAU",
+    "name": "Лимоны",
+    "price": 160
+  },
+  {
+    "id": 32,
+    "image": "https://irecommend.ru/sites/default/files/product-images/142450/0005136-228x228.png",
+    "name": "Молоко",
+    "price": 100
+  },
+  {
+    "id": 33,
+    "image": "https://cdn1.ozone.ru/s3/multimedia-o/6185881380.jpg",
+    "name": "Овсянка",
+    "price": 60
+  },
+  {
+    "id": 34,
+    "image": "https://produktoff.com/static/upload/goods/66/119366_original.jpg",
+    "name": "Апельсины",
+    "price": 230
+  },
+  {
+    "id": 35,
+    "image": "https://media.vprok.ru/products/x700/x5/qh/q7bqg4uo5c6cejq3iye2eqop5velqhx5.jpeg",
+    "name": "Рис",
+    "price": 90
+  },
+  {
+    "id": 36,
+    "image": "https://mixmarkt.si/userfls/shop/large/185_konfety-v-upakovke-batonchi.jpg",
+    "name": "Конфеты",
+    "price": 500
+  },
+  {
+    "id": 37,
+    "image": "https://bulbul.ru/upload/iblock/673/chay-greenfield-golden-ceylon-chyernyy-100-paketikov-v-upakovke.jpg",
+    "name": "Чай",
+    "price": 140
+  },
+  {
+    "id": 38,
+    "image": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/154630/3688547.g4n7n659gu.w330.jpg",
+    "name": "Йогурт",
+    "price": 110
+  }
+]

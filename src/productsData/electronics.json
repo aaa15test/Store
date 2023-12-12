@@ -1,0 +1,74 @@
+[
+  {
+    "id": 14,
+    "image": "https://img.mvideo.ru/Pdb/20066860b.jpg",
+    "name": "Холодильник",
+    "price": 80000
+  },
+  {
+    "id": 15,
+    "image": "https://www.beurer-shop.ru/UserFiles/Image/goods/beurer/img4098_32802.jpg",
+    "name": "Фен",
+    "price": 5000
+  },
+  {
+    "id": 16,
+    "image": "https://dysoncom.net/netcat_files/images/p_stayler-dyson-airwrap-hs01-s-dorozhnym-chehlom-i-rascheskami-berlinskaya-lazur_103_0.jpg",
+    "name": "Стайлер",
+    "price": 30500
+  },
+  {
+    "id": 17,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc39iyEpKLvEP_P1SoCqB9ZwZ_iFHHNxc9Gw2uYVOcVX8Nt_mZ9Hkc-3aqFaSmMrev4UM&usqp=CAU",
+    "name": "Наушники",
+    "price": 18000
+  },
+  {
+    "id": 18,
+    "image": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/645925/1_645925.jpg",
+    "name": "Утюг",
+    "price": 6000
+  },
+  {
+    "id": 19,
+    "image": "https://static.eldorado.ru/photos/mv/Big/30069446bb.jpg/resize/180x180/",
+    "name": "Телефон",
+    "price": 30000
+  },
+  {
+    "id": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_N-MluQODA3-QNTC938evzuJamSJtdwXeGCo8wl-_88UBOr09jsIHAVL5i2tC8GJDJY&usqp=CAU",
+    "name": "Повербанк",
+    "price": 2600
+  },
+  {
+    "id": 21,
+    "image": "https://img.mvideo.ru/Pdb/400029621b.jpg",
+    "name": "Умная колонка",
+    "price": 9000
+  },
+  {
+    "id": 22,
+    "image": "https://appleshops.ru/image/cache/catalog/Apple/Apple%20Watch%20Series%206/Graphite-Case-Black-Band-44-mm-1.jpg_500.webp",
+    "name": "Умные часы",
+    "price": 25000
+  },
+  {
+    "id": 23,
+    "image": "https://img.gazeta.ru/files3/322/17341322/tyjtrjrtjrjh-pic_32ratio_1200x800-1200x800-45976.jpg",
+    "name": "Планшет",
+    "price": 9000
+  },
+  {
+    "id": 24,
+    "image": "https://shop.tricolor.ru/upload/resize_cache/iblock/fd6/0gtgdw499cgt6dsguci90kh8rgzeedr5/1280_1280_1/Televizor_43_1.jpg",
+    "name": "Телевизор",
+    "price": 30000
+  },
+  {
+    "id": 12,
+    "image": "https://img.global.news.samsung.com/ru/wp-content/uploads/2018/04/WD10N84INOA-EE_002_Front-Open_White-1024x683.jpg",
+    "name": "Стиральная машина",
+    "price": 45000
+  }
+]
