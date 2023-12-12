@@ -4,6 +4,10 @@
 3. It must be possible to sort by at least one column (for example, product name. You can use stubs for data).
 4. There is a cart in the form of a sidebar, which slides out on the right with a list of added products.
 
+`yarn start` - command to start the project.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
