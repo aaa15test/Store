@@ -1,7 +1,6 @@
-import  { useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 
 function Total() {
-
   const cart = useSelector(state => state.cart);
 
   const getTotal = () => {
@@ -18,10 +17,8 @@ function Total() {
     <div>
       <h3>Сумма заказа</h3>
       <div>
-        <p>
-          Количество товаров: {getTotal().totalQuantity}
-        </p>
-        <p>Итого <strong>{getTotal().totalPrice} руб.</strong></p>
+        <p>Количество товаров: <strong>{getTotal().totalQuantity}</strong></p>
+        <p>Итого: <strong>{getTotal().totalPrice} руб.</strong></p>
       </div>
     </div>
   )

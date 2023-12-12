@@ -43,6 +43,7 @@
 .cartButton {
   position: absolute;
   right: 5px;
+  top: 35px;
   cursor: pointer;
   border-radius: 5px;
   margin: -20px 30px 0;
@@ -76,4 +77,18 @@ label #cancel{
   margin-right: 725px;
   opacity: 1;
   visibility: visible;
+}
+
+.productsCnt {
+  position: relative;
+  padding-top: 2px;
+  text-align: center;
+  width: 24px;
+  height: 22px;
+  top: -10px;
+  left: 40px;
+  background-color: #54708D;
+  color: white;
+  font-weight: bold;
+  border-radius: 50%;
 }
