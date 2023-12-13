@@ -16,14 +16,6 @@ export const cartSlice = createSlice({
       else state.productData.push(action.payload);
     },
 
-    deleteFromCart: (state, action) => {
-      state.productData = state.productData.filter((item)=> item._id !== action.payload._id);
-    },
-
-    resetCart: state => {
-      state.productData = [];
-    },
-
     incrementQuantity: (state, action) => {
       const item = state.productData.find(item => item._id === action.payload);
       if (item) item.quantity++;
@@ -49,11 +41,8 @@ export const cartReducer = cartSlice.reducer;
 
 export const
  {
-  addToCart, 
-  deleteFromCart, 
-  resetCart,
+  addToCart,
   incrementQuantity, 
-  addUser,
   decrementQuantity,
   removeItem
 } = cartSlice.actions;
